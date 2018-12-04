@@ -1,0 +1,16 @@
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\DeviceApplication13\DeviceApplication13\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\DeviceApplication13\DeviceApplication13\obj\Debug\DeviceApplication13.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\DeviceApplication13\DeviceApplication13\obj\Debug\DeviceApplication13.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\DeviceApplication13\DeviceApplication13\obj\Debug\DeviceApplication13.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\DeviceApplication13\DeviceApplication13\obj\Debug\DeviceApplication13.pdb
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\DeviceApplication13\DeviceApplication13\bin\Debug\DeviceApplication13.exe
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\DeviceApplication13\DeviceApplication13\bin\Debug\DeviceApplication13.pdb
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\DeviceApplication13\DeviceApplication13\obj\Debug\DeviceApplication13.exe
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\DeviceApplication13 - 副本\DeviceApplication13\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\DeviceApplication13 - 副本\DeviceApplication13\obj\Debug\DeviceApplication13.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\DeviceApplication13 - 副本\DeviceApplication13\obj\Debug\DeviceApplication13.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\DeviceApplication13 - 副本\DeviceApplication13\obj\Debug\DeviceApplication13.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\DeviceApplication13 - 副本\DeviceApplication13\bin\Debug\MyNote.exe
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\DeviceApplication13 - 副本\DeviceApplication13\bin\Debug\MyNote.pdb
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\DeviceApplication13 - 副本\DeviceApplication13\obj\Debug\MyNote.exe
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\DeviceApplication13 - 副本\DeviceApplication13\obj\Debug\MyNote.pdb
